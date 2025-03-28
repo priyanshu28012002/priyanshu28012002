@@ -54,8 +54,8 @@ I am always looking for new challenges and collaboration opportunities in the fi
 
 ### 📡 Communication & Middleware  
 - **DDS (FastRTPS, CycloneDDS, Zenoh)**  
-- **CAN Bus | I2C | SPI | UART**  
-- **MQTT | ZeroMQ | ROSBridge**  
+- **CAN Bus | RS485**  
+- **ROSBridge**  
 
 ### 💡 Programming Languages & Tools  
 - **C++ | Python** – Core Development  
@@ -64,7 +64,43 @@ I am always looking for new challenges and collaboration opportunities in the fi
 
 This tech stack ensures seamless integration of **perception, control, AI, and real-world deployment** for autonomous mobile robots. 🚀  
 ---
+
+# 📌 Projects  
+
+### 🔹 [Autonomous Mobile Robot Navigation](https://github.com/priyanshu28012002/autonomous-navigation)  
+**Tech:** ROS2, Nav2, LiDAR, SLAM, A* Path Planning  
+- Implemented **real-time localization and mapping** using SLAM algorithms.  
+- Designed **global and local planners** for efficient navigation.  
+
+### 🔹 [Vision-Based Object Detection & Tracking](https://github.com/priyanshu28012002/vision-tracking)  
+**Tech:** OpenCV, YOLO, DeepSORT, Jetson Nano  
+- Developed a **real-time object detection and tracking** pipeline for mobile robots.  
+- Integrated **deep learning models** for enhanced perception.  
+
+---
+
+# ⏳ Upcoming Projects  
+
+### 🚀 **Multi-Robot Coordination with Behavior Trees**  
+- Implementing **collaborative decision-making** for multi-robot systems.  
+- Using **BehaviorTree.CPP** for AI-driven task allocation.  
+
+### 🚀 **Reinforcement Learning for Path Optimization**  
+- Training a **deep reinforcement learning** model for autonomous navigation.  
+- Comparing **traditional path planners (A*, RRT) vs RL-based planning**.  
+
+---
+
+# 📚 Learning Repositories  
+
+### 📖 [ROS2 Navigation Framework](https://github.com/priyanshu28012002/ros2-nav-tutorials)  
+- Hands-on **Nav2 stack implementation** with simulation and real-world robots.  
+
+### 📖 [Kalman Filtering for Sensor Fusion](https://github.com/priyanshu28012002/kalman-filter-tutorial)  
+- Implementing **Extended Kalman Filter (EKF) & Unscented Kalman Filter (UKF)** for mobile robot localization.  
+
+---
+
 ## 🔗 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-srivastava-29486b206/)  
 
----
