@@ -1,52 +1,70 @@
 # 💫 Priyanshu Srivastava  
 
-## 🚀 About Me  
-I am a passionate software developer with expertise in **C++**, **C**, and **robotics programming**. My interests lie in **computer vision**, **robotics**, and **concurrent programming**. I enjoy solving challenging problems, optimizing performance, and contributing to open-source projects.
+## 🤖 About Me  
 
-- 🔭 Currently working on **mobile robotics and control systems**  
-- 🌱 Learning **ROS1, Kalman Filtering, and C++ Concurrency**  
-- 💡 Exploring **Behavior Trees for AI decision-making**  
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/priyanshu-srivastava-29486b206/)**  
+I am a **Robotics Engineer** with expertise in developing **autonomous mobile robots**. My work involves designing and implementing **navigation, control, and AI-driven decision-making systems** for robotic applications.  
+
+🔹 **Expertise:**  
+- Autonomous Mobile Robots (AMR)  
+- **ROS2 | Nav2 | SLAM | Control Systems**  
+- **Behavior Trees | AI for Robotics**  
+- Motion Planning & Path Optimization  
+- Sensor Fusion & Localization  
+
+🔹 **Passionate About:**  
+- Advancing **robot autonomy** and **intelligent decision-making**  
+- Implementing **real-time control and navigation algorithms**  
+- Exploring **cutting-edge AI techniques for robotics**  
+
+I am always looking for new challenges and collaboration opportunities in the field of robotics. Feel free to connect! 🚀  
 
 ---
 
 ## 🛠️ Tech Stack  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-![ROS](https://img.shields.io/badge/ROS-%230A0A0A.svg?style=for-the-badge&logo=ros&logoColor=white)  
 
+### 🤖 Robotics & Automation  
+- **ROS2 | ROS1** – Navigation, Perception, Control  
+- **Nav2 | MoveIt!** – Path Planning & Motion Execution  
+- **SLAM (Cartographer, RTAB-Map, GMapping)**  
+- **Gazebo | Webots | Isaac Sim** – Robotics Simulation  
+- **Behavior Trees (BehaviorTree.CPP)** – AI-driven Decision Making  
+
+### 🔍 Perception & Sensor Fusion  
+- **LiDAR (Velodyne, RPLiDAR, Ouster)**  
+- **RGB-D & Stereo Vision (Realsense, ZED, Kinect)**  
+- **OpenCV | PCL** – Computer Vision & Point Cloud Processing  
+- **Kalman Filters | Particle Filters** – Sensor Fusion & Localization  
+
+### ⚙️ Control & Motion Planning  
+- **PID Controllers | Model Predictive Control (MPC)**  
+- **Inverse Kinematics | Forward Kinematics**  
+- **Path Planning (A*, Dijkstra, RRT, PRM)**  
+- **Trajectory Generation (Bezier, B-Spline, Quintic Polynomials)**  
+
+### 🧠 AI & Machine Learning for Robotics  
+- **Deep Learning (PyTorch, TensorFlow, ONNX)**  
+- **Reinforcement Learning (RLlib, Stable-Baselines3)**  
+- **SLAM & Visual Odometry (ORB-SLAM, VINS-Mono, DSO)**  
+- **Computer Vision (YOLO, OpenPose, Mask R-CNN)**  
+
+### 💾 Embedded & Hardware  
+- **Microcontrollers (STM32, Arduino, ESP32, Teensy)**  
+- **Single-Board Computers (Jetson Nano, Raspberry Pi, BeagleBone)**  
+- **Real-Time Operating Systems (RTOS, FreeRTOS)**  
+
+### 📡 Communication & Middleware  
+- **DDS (FastRTPS, CycloneDDS, Zenoh)**  
+- **CAN Bus | I2C | SPI | UART**  
+- **MQTT | ZeroMQ | ROSBridge**  
+
+### 💡 Programming Languages & Tools  
+- **C++ | Python** – Core Development  
+- **CMake | Bazel | Colcon** – Build Systems  
+- **Docker | CI/CD | Git** – DevOps for Robotics  
+
+This tech stack ensures seamless integration of **perception, control, AI, and real-world deployment** for autonomous mobile robots. 🚀  
 ---
-
-## 📊 GitHub Stats  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=priyanshu28012002&theme=dark&hide_border=false&show_icons=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu28012002&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-</table>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu28012002&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshu28012002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 📖 Favorite Quote  
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-
----
-
 ## 🔗 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-srivastava-29486b206/)  
 
 ---
-
-⭐ **Thanks for stopping by!**  
